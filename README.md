@@ -731,18 +731,15 @@ This Secret Number Game template demonstrates patterns that can be adapted for:
 
 ### Learning More About FHE
 - [What is Fully Homomorphic Encryption?](https://www.zama.ai/post/what-is-homomorphic-encryption)
-- [FHEVM Whitepaper](https://github.com/zama-ai/fhevm/blob/main/fhevm-whitepaper.pdf)
 - [Zama Blog - FHE Use Cases](https://www.zama.ai/blog)
+- [Zama dApp Examples](https://github.com/zama-ai/fhevm-contracts)
 
 ### Developer Tools
 - [Hardhat Documentation](https://hardhat.org/docs)
 - [fhevmjs Library](https://github.com/zama-ai/fhevmjs)
 - [FHEVM Solidity Library](https://github.com/zama-ai/fhevm)
 
-### Example dApps
-- [Zama dApp Examples](https://github.com/zama-ai/fhevm-examples)
-- [Confidential ERC-20](https://docs.zama.ai/fhevm/tutorials/token)
-- [Private Voting](https://docs.zama.ai/fhevm/tutorials/voting)
+
 
 ## 🎉 Congratulations!
 
@@ -753,7 +750,5 @@ You've successfully built and deployed your first confidential smart contract us
 - ✅ You understand the complete encryption → computation → decryption workflow
 - ✅ You can now build more complex confidential dApps
 - ✅ You're ready to explore the exciting world of blockchain privacy
-
-**Ready to build something amazing?** The world of confidential smart contracts is just getting started, and you now have the skills to be part of it.
 
 Happy building! 🚀🔐
